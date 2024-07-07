@@ -13,3 +13,12 @@ Bad Code:
 - reasons of why bad code can arise: 
  - Preasure due the task deadline.
 - put off code review and testing until tomorray what you should do today. (LeBlanc's laws - Later equals never)
+
+The total Cost of Owning a Mess:
+Bad codes can turn into a big monster. So when the devs have to face this big monster their productivity decrease approch to zero. The managers try to increase the team productivity adding more and more task on backlog.
+
+
+Attitude:
+- Devs should not be shy. The should step foward and say what they think about the project, the schedule and the deadlines. The managers do yarns for the truth, because the managers and marketers makes promisses and commitments with the customers. But before we start a project we must show our resources to the managers.
+
+Clean Code:
