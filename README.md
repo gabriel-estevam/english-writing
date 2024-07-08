@@ -22,3 +22,6 @@ Attitude:
 - Devs should not be shy. The should step foward and say what they think about the project, the schedule and the deadlines. The managers do yarns for the truth, because the managers and marketers makes promisses and commitments with the customers. But before we start a project we must show our resources to the managers.
 
 Clean Code:
+There are many definitions of clean code to many programmers. The author asked about well-known and depeply experienced programmers what they thought. After saw many views of points, I could realize that clean some topics of keeps clean your code: Code should be simple. It should be readable like a book. It should have tests cases and these test should be testing. It should be indent.
+
+
