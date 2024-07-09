@@ -6,14 +6,17 @@ Hi! I'm Gabriel, I'm a software developer with a passion for cybersecurity. I'm 
 #### Chapter one - Clean Code
 Before starting chapter one, the Author - Robert C. Martin, also known as Uncle Bobby - makes it clear that this book cannot be read in less of 12 hours or in 30 days. Instead, it will take months to be completed, because readers need to commit to it. This book offers great lessons on being a good programmer.
 
-Chapter one brings a deep reflection around what "clean code" is, presenting various viewpoints from well-known programmers. Before we understand what clean code is, we need to understand its opposite - bad code. A bad code can increable decrease the team's productivity, your starting thing of w how a good phiphlofer you would be if you give up your careers. And even worst thing is, you I might take your business down because of bad code.
-So, what is the caracteritic that fills a bad code?
-- Do not understand the project requirements.
-- Say nothing about yours thoughts of the project.
-- Never standize the code and patterns.
-- Never testing your code.
-- Never care about the details
-- Use a whole of resources to do a tiny thing.
+Chapter none delves deeply into the concept of "clean code," presenting various viewpoints from well-known programmers. Before understanding what clean code entails, it's crucial to grasp its counterpart - bad code. <br>
 
-So what's the deal?
-Matter of fact, clean code need to be culture in software development. When we say "culture" we have "people". 
+Bad code can significantly decrease team productivity and make you question your career choices. Worse yet, it might even bring your business down.
+
+So, what are the characteristics of bad code?
+- Lack of understanding of project requirements.
+- Absence of clear thoughts reflected in the code.
+- Inconsistent code and lack of standardized patterns.
+- Absence of testing.
+- Neglect of important details.
+- Excessive resource usage for simple tasks.
+
+So what's the deal? <br>
+In fact, cleand code needs to be ingrained in software development culture. When we talk about 'culture,' we are referring to 'people.' Keeping code clean isn't just about maintaining its beauty; it's about ensuring that another developer can easily understand and modify your code in the future.
