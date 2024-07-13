@@ -25,3 +25,9 @@ Clean Code:
 There are many definitions of clean code to many programmers. The author asked about well-known and depeply experienced programmers what they thought. After saw many views of points, I could realize that clean some topics of keeps clean your code: Code should be simple. It should be readable like a book. It should have tests cases and these test should be testing. It should be indent.
 
 
+#### Chapter Two: Meaningful Names
+This approach a interesting affair, that is the meaningful names we define to ours classes, methods and variables when we are coding. 
+ - Context.
+ -  Use pronounceable names.
+ -  Avoid encodings.
+ -  Use searchable names.
