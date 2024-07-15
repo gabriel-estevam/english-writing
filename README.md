@@ -22,10 +22,10 @@ So what's the deal? <br>
 In fact, cleand code needs to be ingrained in software development culture. When we talk about 'culture,' we are referring to 'people.' Keeping code clean isn't just about maintaining its beauty; it's about ensuring that another developer can easily understand and modify your code in the future.
 
 #### Chapter Two - Meaninful Names
-Making progress in my writing lessons. In this chapter I'm going to introduce an important topic in software development (coding) - meaningful names. We well know that a names have a meaning to someone, a group of people and even in the society. For example, 
-The name "Rafael" means "God has healed" or "God heals." It originates from Hebrew and is derived from the elements "rafa," meaning "healing," and "el," meaning "God." Therefore, "Rafael" signifies a divine healing or God's healing.
+In this chapter, I'm going to introduce an important topic in software development (coding) - meaningful names. We all know that names have meaning to individuals, groups, and society at large. For example, the name "Rafael" means "God has healed" or "God heals." It originates from Hebrew and is derived from the elements "rafa," meaning "healing," and "el," meaning "God." Therefore, "Rafael" signifies divine healing or God's healing.
 
-<br>
-Another example is the name "Marina", Marina means "of the sea" or "belonging to the sea" or "marine", therefore "Marina" coveys the idea of being related to or associated with the sea.
-So, as we can see above, these two names have different meanings, bringing themselves diffent <b>contexts.
-<br>
+Another example is the name "Marina". "Marina" means "of the sea" or "belonging to the sea," conveying the idea of being related to or associated with the sea.
+
+As we can see from these examples, these two names have different meanings, each bringing its own <b> context </b>.
+
+In code, names should provide context and must be readable for anyone who reads them. When we clearly name our classes, methods, and variables, we ensure clarity about what we are doing and what to expect. However, it's not just about giving something a "fancy" name in coding. These names must convey context to avoid misinformation.
